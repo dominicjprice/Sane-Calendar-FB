@@ -6,4 +6,4 @@ A Google App Engine application for sanitising Facebook vcal feeds for import in
 * Edit *app.yaml*, replace *[YOUR_APP_ID]* with your GAE application ID, replace both *[YOUR_PATH]* with different obscure string values; the events and birthday calendars will be accesible on these paths (choosing obscure and random paths make it harder for people to guess the paths and gain access to your calendars).
 
 ### Installation
-Install using the Google App Engine Python SDK [https://developers.google.com/appengine/]
+Install using the Google App Engine Python SDK - https://developers.google.com/appengine/
